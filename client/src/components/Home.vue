@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Home With Typescript</h1>
-    <v-btn>fuck</v-btn>
+    <v-btn color="success">fuck</v-btn>
   </div>
 </template>
 
