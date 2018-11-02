@@ -1,7 +1,16 @@
 <template>
-  <div id="app">
-    <h1>App</h1>
-    <router-view/>
-  </div>
+  <v-app>
+    <router-view />
+  </v-app>
 </template>
 
+<script>
+export default {
+  name: 'App',
+  data() {
+    return {
+      //
+    };
+  },
+};
+</script>
